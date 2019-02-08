@@ -1,0 +1,13 @@
+.coluna-acao {
+	width:30px;
+}
+td.alinha-centro, .alinha-centro {
+	text-align:center;
+}
+.lista-departamentos {
+	list-style: none;
+	margin-left: 0px;
+}
+.lista-departamentos li ul {
+	margin-left: 15px;
+}

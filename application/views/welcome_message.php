@@ -1,0 +1,1 @@
+Olá, eu sou a página inicial da loja. :)
